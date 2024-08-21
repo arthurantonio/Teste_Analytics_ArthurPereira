@@ -1,0 +1,501 @@
+,ID,Data,Produto,Categoria,Quantidade,Preço
+0,1,2023-08-14,Camiseta,Marca A,1,70
+1,2,2023-06-26,Calça,Marca B,1,115
+2,3,2023-08-24,Calça,Marca A,2,
+3,4,2023-08-27,Calça,Marca A,3,80
+4,5,2023-07-16,Camiseta,Marca A,1,60
+5,6,2023-01-14,Camiseta,Marca A,2,55
+6,7,2023-06-01,Tênis,Marca B,1,170
+7,8,2023-05-04,Camiseta,Marca A,1,75
+8,9,2023-02-15,Calça,Marca C,3,95
+9,10,2023-06-23,Camiseta,Marca A,3,70
+10,11,2023-05-12,Calça,Marca A,2,100
+11,12,2023-08-04,Camiseta,Marca A,1,60
+12,13,2023-06-30,Roupa Intíma,Marca A,4,40
+13,14,2023-11-20,Calça,Marca A,2,100
+14,15,2023-11-24,Meia,Marca A,3,45
+15,16,2023-02-12,Tênis,Marca B,4,195
+16,17,2023-10-08,Camiseta,Marca A,3,80
+17,18,2023-11-19,Camiseta,Marca A,2,40
+18,19,2023-05-29,Meia,Marca A,2,30
+19,20,2023-11-24,Meia,Marca B,7,35
+20,21,2023-11-26,Calça,Marca C,1,85
+21,22,2023-01-21,Roupa Intíma,Marca B,3,55
+22,23,2023-10-19,Camiseta,Marca B,4,85
+23,24,2023-02-21,Camiseta,Marca A,,60
+24,25,2023-06-09,Meia,Marca B,3,40
+25,26,2023-11-21,Calça,Marca B,2,120
+26,27,2023-06-05,Calça,Marca C,1,85
+27,28,2023-07-09,Camiseta,Marca A,2,60
+28,29,2023-06-10,Camiseta,Marca B,2,90
+29,30,2023-01-07,Camiseta,Marca A,7,
+30,31,2023-01-01,Camiseta,Marca A,1,60
+31,32,2023-04-13,Roupa Intíma,Marca B,3,65
+32,33,2023-08-30,Tênis,Marca B,2,195
+33,34,2023-09-20,Tênis,Marca C,1,165
+34,35,2023-01-28,Camiseta,Marca A,1,70
+35,36,2023-08-08,Camiseta,Marca A,5,55
+36,37,2023-02-20,Calça,Marca A,2,80
+37,38,2023-07-19,Calça,Marca A,1,80
+38,39,2023-12-23,Tênis,Marca A,3,175
+39,40,2023-02-23,Camiseta,Marca B,2,80
+40,41,2023-09-01,Tênis,Marca C,2,155
+41,42,2023-04-28,Tênis,Marca A,2,165
+42,43,2023-06-04,Calça,Marca A,3,85
+43,44,2023-01-18,Calça,Marca A,1,85
+44,45,2023-01-06,Camiseta,Marca C,7,45
+45,46,2023-07-30,Camiseta,Marca A,,50
+46,47,2023-08-21,Tênis,Marca B,4,185
+47,48,2023-05-06,Camiseta,Marca A,1,65
+48,49,2023-07-12,Camiseta,Marca A,4,65
+49,50,2023-03-09,Tênis,Marca A,3,170
+50,51,2023-10-10,Roupa Intíma,Marca A,3,15
+51,52,2023-02-17,Tênis,Marca A,4,175
+52,53,2023-10-10,Camiseta,Marca A,6,60
+53,54,2023-08-27,Tênis,Marca A,5,160
+54,55,2023-08-09,Camiseta,Marca A,2,65
+55,56,2023-11-03,Calça,Marca A,4,85
+56,57,2023-11-25,Camiseta,Marca A,1,70
+57,58,2023-08-14,Tênis,Marca A,1,170
+58,59,2023-07-28,Calça,Marca A,1,90
+59,60,2023-10-24,Calça,Marca A,1,100
+60,61,2023-12-26,Tênis,Marca B,7,185
+61,62,2023-04-11,Camiseta,Marca A,3,80
+62,63,2023-04-12,Camiseta,Marca A,3,65
+63,64,2023-01-06,Calça,Marca B,3,105
+64,65,2023-05-13,Calça,Marca B,1,135
+65,66,2023-05-18,Camiseta,Marca B,1,95
+66,67,2023-08-30,Roupa Intíma,Marca A,2,40
+67,68,2023-05-28,Camiseta,Marca B,8,90
+68,69,2023-01-11,Camiseta,Marca C,3,45
+69,70,2023-07-06,Calça,Marca A,8,110
+70,71,2023-04-14,Meia,Marca A,2,35
+71,72,2023-07-23,Calça,Marca A,4,100
+72,73,2023-04-16,Calça,Marca A,6,120
+73,74,2023-01-28,Camiseta,Marca B,2,75
+74,75,2023-04-28,Roupa Intíma,Marca B,2,45
+75,76,2023-02-13,Calça,Marca A,1,70
+76,77,2023-03-24,Calça,Marca B,2,125
+77,78,2023-03-28,Camiseta,Marca A,7,65
+78,79,2023-10-25,Camiseta,Marca A,7,65
+79,80,2023-12-27,Roupa Intíma,Marca C,3,15
+80,81,2023-01-31,Calça,Marca A,6,100
+81,82,2023-05-06,Tênis,Marca A,2,185
+82,83,2023-11-30,Camiseta,Marca A,1,60
+83,84,2023-06-16,Roupa Intíma,Marca B,3,40
+84,85,2023-02-03,Roupa Intíma,Marca B,2,50
+85,86,2023-04-02,Camiseta,Marca A,1,65
+86,87,2023-05-16,Calça,Marca A,2,100
+87,88,2023-07-06,Tênis,Marca A,4,150
+88,89,2023-07-02,Roupa Intíma,Marca A,2,45
+89,90,2023-02-19,Camiseta,Marca A,7,70
+90,91,2023-12-25,Tênis,Marca B,2,180
+91,92,2023-08-31,Calça,Marca B,5,115
+92,93,2023-02-24,Camiseta,Marca A,3,80
+93,94,2023-02-14,Camiseta,Marca A,2,60
+94,95,2023-10-25,Calça,Marca B,3,115
+95,96,2023-07-25,Camiseta,Marca B,6,90
+96,97,2023-09-03,Roupa Intíma,Marca C,1,35
+97,98,2023-03-09,Camiseta,Marca B,1,105
+98,99,2023-08-28,Calça,Marca A,3,105
+99,100,2023-10-03,Camiseta,Marca A,2,70
+100,101,2023-11-25,Tênis,Marca A,1,165
+101,102,2023-07-11,Roupa Intíma,Marca C,3,35
+102,103,2023-09-18,Camiseta,Marca A,3,85
+103,104,2023-11-22,Calça,Marca A,3,100
+104,105,2023-05-20,Calça,Marca B,2,135
+105,106,2023-03-11,Tênis,Marca B,2,180
+106,107,2023-03-21,Camiseta,Marca B,2,95
+107,108,2023-03-24,Camiseta,Marca A,2,50
+108,109,2023-12-31,Camiseta,Marca A,5,80
+109,110,2023-07-14,Tênis,Marca B,2,190
+110,111,2023-07-06,Camiseta,Marca A,2,70
+111,112,2023-12-23,Camiseta,Marca A,3,75
+112,113,2023-11-07,Camiseta,Marca A,1,60
+113,114,2023-05-03,Calça,Marca A,2,90
+114,115,2023-02-07,Camiseta,Marca A,3,65
+115,116,2023-05-16,Calça,Marca A,3,95
+116,117,2023-07-27,Tênis,Marca C,6,165
+117,118,2023-05-02,Calça,Marca A,1,90
+118,119,2023-10-21,Tênis,Marca A,1,160
+119,120,2023-08-24,Roupa Intíma,Marca B,8,60
+120,121,2023-04-01,Tênis,Marca A,2,160
+121,122,2023-02-04,Camiseta,Marca B,2,85
+122,123,2023-07-01,Camiseta,Marca B,4,75
+123,124,2023-11-22,Calça,Marca B,4,105
+124,125,2023-05-13,Roupa Intíma,Marca A,2,30
+125,126,2023-04-17,Calça,Marca B,3,115
+126,127,2023-03-13,Calça,Marca A,3,70
+127,128,2023-01-18,Camiseta,Marca B,1,70
+128,129,2023-09-12,Meia,Marca B,2,55
+129,130,2023-09-28,Calça,Marca C,3,90
+130,131,2023-03-25,Camiseta,Marca B,1,85
+131,132,2023-05-17,Camiseta,Marca C,1,60
+132,133,2023-07-12,Calça,Marca A,2,95
+133,134,2023-05-28,Roupa Intíma,Marca C,5,20
+134,135,2023-05-20,Roupa Intíma,Marca B,1,70
+135,136,2023-05-03,Calça,Marca A,1,110
+136,137,2023-08-29,Meia,Marca A,1,40
+137,138,2023-12-09,Tênis,Marca A,3,180
+138,139,2023-08-02,Calça,Marca B,3,120
+139,140,2023-02-24,Roupa Intíma,Marca A,2,15
+140,141,2023-01-27,Calça,Marca A,2,105
+141,142,2023-04-12,Camiseta,Marca A,7,55
+142,143,2023-08-24,Roupa Intíma,Marca A,5,35
+143,144,2023-11-24,Tênis,Marca A,2,170
+144,145,2023-02-02,Camiseta,Marca B,1,80
+145,146,2023-05-28,Calça,Marca A,1,105
+146,147,2023-08-04,Calça,Marca A,3,90
+147,148,2023-05-26,Tênis,Marca A,3,155
+148,149,2024-01-01,Tênis,Marca B,6,195
+149,150,2023-08-08,Calça,Marca B,1,95
+150,151,2023-03-04,Calça,Marca A,4,100
+151,152,2023-11-03,Roupa Intíma,Marca A,1,25
+152,153,2023-04-13,Calça,Marca A,2,90
+153,154,2023-12-08,Tênis,Marca A,3,180
+154,155,2023-10-02,Camiseta,Marca B,2,100
+155,156,2023-02-25,Camiseta,Marca C,3,65
+156,157,2023-12-06,Camiseta,Marca A,2,55
+157,158,2023-09-15,Camiseta,Marca A,1,50
+158,159,2023-02-06,Calça,Marca A,6,100
+159,160,2023-12-13,Camiseta,Marca C,2,50
+160,161,2023-11-20,Tênis,Marca A,2,170
+161,162,2023-11-28,Roupa Intíma,Marca A,5,35
+162,163,2023-07-17,Roupa Intíma,Marca B,2,50
+163,164,2023-11-07,Camiseta,Marca A,4,75
+164,165,2023-05-16,Tênis,Marca A,2,160
+165,166,2023-01-01,Camiseta,Marca A,6,70
+166,167,2023-02-08,Tênis,Marca C,3,140
+167,168,2023-03-06,Roupa Intíma,Marca A,1,20
+168,169,2023-10-26,Meia,Marca B,4,65
+169,170,2023-09-08,Camiseta,Marca A,4,55
+170,171,2023-06-19,Calça,Marca A,1,95
+171,172,2023-08-04,Calça,Marca A,2,80
+172,173,2023-10-17,Camiseta,Marca B,3,95
+173,174,2023-06-05,Camiseta,Marca A,4,70
+174,175,2023-05-28,Calça,Marca A,2,105
+175,176,2023-09-01,Tênis,Marca B,1,175
+176,177,2023-12-27,Calça,Marca A,4,
+177,178,2023-05-03,Camiseta,Marca A,2,65
+178,179,2023-02-25,Camiseta,Marca A,,60
+179,180,2023-05-23,Calça,Marca A,1,90
+180,181,2023-09-08,Calça,Marca A,8,100
+181,182,2023-04-08,Camiseta,Marca B,5,75
+182,183,2023-01-08,Calça,Marca A,4,95
+183,184,2023-12-25,Camiseta,Marca B,4,80
+184,185,2023-03-03,Tênis,Marca B,2,190
+185,186,2023-12-30,Camiseta,Marca B,4,95
+186,187,2023-01-12,Calça,Marca A,1,100
+187,188,2023-09-03,Camiseta,Marca A,2,75
+188,189,2023-03-11,Camiseta,Marca A,2,65
+189,190,2023-06-28,Camiseta,Marca A,4,65
+190,191,2023-03-27,Calça,Marca B,5,105
+191,192,2023-07-31,Camiseta,Marca A,4,60
+192,193,2023-06-19,Calça,Marca B,3,125
+193,194,2023-04-14,Calça,Marca A,3,110
+194,195,2023-04-30,Calça,Marca A,2,90
+195,196,2023-07-12,Tênis,Marca A,1,160
+196,197,2023-04-08,Camiseta,Marca A,5,70
+197,198,2023-03-05,Meia,Marca B,2,55
+198,199,2023-07-13,Calça,Marca A,1,90
+199,200,2023-06-20,Camiseta,Marca B,2,85
+200,201,2023-07-12,Roupa Intíma,Marca B,4,35
+201,202,2023-12-31,Calça,Marca B,2,120
+202,203,2023-11-07,Calça,Marca B,3,95
+203,204,2023-08-19,Tênis,Marca B,3,180
+204,205,2023-03-16,Calça,Marca A,3,95
+205,206,2023-08-05,Meia,Marca A,8,30
+206,207,2023-04-18,Calça,Marca A,3,90
+207,208,2023-07-04,Roupa Intíma,Marca B,2,45
+208,209,2023-02-15,Camiseta,Marca A,1,65
+209,210,2023-12-30,Camiseta,Marca A,2,70
+210,211,2023-01-04,Calça,Marca A,2,105
+211,212,2023-02-12,Calça,Marca A,1,105
+212,213,2023-01-17,Roupa Intíma,Marca B,4,55
+213,214,2023-03-17,Tênis,Marca B,7,165
+214,215,2023-08-01,Camiseta,Marca B,1,90
+215,216,2023-09-14,Tênis,Marca A,5,160
+216,217,2023-11-27,Calça,Marca C,3,90
+217,218,2023-10-12,Calça,Marca B,2,125
+218,219,2023-09-29,Calça,Marca A,1,75
+219,220,2023-04-17,Camiseta,Marca A,1,55
+220,221,2023-08-24,Roupa Intíma,Marca A,1,25
+221,222,2023-04-02,Calça,Marca A,8,95
+222,223,2023-04-17,Calça,Marca C,3,105
+223,224,2023-03-20,Camiseta,Marca A,3,60
+224,225,2023-08-23,Camiseta,Marca A,3,60
+225,226,2023-12-10,Camiseta,Marca C,5,70
+226,227,2023-10-06,Calça,Marca A,5,85
+227,228,2023-08-09,Camiseta,Marca C,3,55
+228,229,2023-06-05,Calça,Marca A,1,80
+229,230,2023-12-01,Roupa Intíma,Marca B,3,50
+230,231,2023-07-28,Tênis,Marca A,2,165
+231,232,2023-06-01,Tênis,Marca B,1,200
+232,233,2023-04-11,Roupa Intíma,Marca C,2,25
+233,234,2023-03-07,Calça,Marca A,5,100
+234,235,2023-05-26,Calça,Marca C,2,
+235,236,2023-11-02,Camiseta,Marca B,1,80
+236,237,2023-03-12,Tênis,Marca A,1,170
+237,238,2023-05-26,Camiseta,Marca A,3,50
+238,239,2023-12-09,Calça,Marca B,2,110
+239,240,2023-08-13,Calça,Marca B,3,130
+240,241,2023-03-26,Calça,Marca B,4,130
+241,242,2023-09-11,Camiseta,Marca A,3,55
+242,243,2023-02-02,Tênis,Marca A,3,155
+243,244,2023-09-14,Camiseta,Marca A,2,65
+244,245,2023-03-01,Calça,Marca A,4,90
+245,246,2023-03-02,Calça,Marca A,1,85
+246,247,2023-07-17,Calça,Marca A,2,95
+247,248,2023-08-13,Calça,Marca B,4,115
+248,249,2023-08-17,Camiseta,Marca A,3,55
+249,250,2023-08-11,Camiseta,Marca A,3,60
+250,251,2023-06-14,Camiseta,Marca B,2,85
+251,252,2023-02-25,Calça,Marca A,1,105
+252,253,2023-07-01,Meia,Marca A,1,30
+253,254,2023-01-29,Roupa Intíma,Marca B,3,40
+254,255,2023-06-11,Tênis,Marca B,2,210
+255,256,2023-12-15,Camiseta,Marca A,3,45
+256,257,2023-11-05,Calça,Marca B,1,100
+257,258,2023-09-11,Tênis,Marca A,1,155
+258,259,2023-03-03,Calça,Marca A,3,90
+259,260,2023-08-04,Calça,Marca B,4,125
+260,261,2023-04-13,Camiseta,Marca A,3,80
+261,262,2023-03-04,Calça,Marca A,2,100
+262,263,2023-07-18,Camiseta,Marca A,3,70
+263,264,2023-12-24,Calça,Marca A,4,100
+264,265,2023-02-25,Roupa Intíma,Marca A,2,40
+265,266,2023-10-01,Calça,Marca B,6,120
+266,267,2023-01-12,Camiseta,Marca C,1,60
+267,268,2023-04-03,Camiseta,Marca A,3,65
+268,269,2023-06-24,Camiseta,Marca B,1,70
+269,270,2023-02-26,Camiseta,Marca A,1,60
+270,271,2023-03-22,Camiseta,Marca A,1,70
+271,272,2023-01-23,Meia,Marca B,1,50
+272,273,2023-04-13,Camiseta,Marca A,1,65
+273,274,2023-01-23,Calça,Marca A,4,90
+274,275,2023-12-20,Camiseta,Marca A,2,65
+275,276,2023-08-06,Calça,Marca A,2,110
+276,277,2023-01-14,Calça,Marca B,2,120
+277,278,2023-07-26,Camiseta,Marca A,1,75
+278,279,2023-05-19,Calça,Marca A,1,100
+279,280,2023-09-10,Camiseta,Marca B,3,95
+280,281,2023-01-03,Calça,Marca A,2,110
+281,282,2023-06-01,Camiseta,Marca B,1,100
+282,283,2023-01-05,Camiseta,Marca A,2,65
+283,284,2023-09-08,Roupa Intíma,Marca B,1,55
+284,285,2023-01-01,Camiseta,Marca C,3,45
+285,286,2023-12-27,Calça,Marca A,3,95
+286,287,2023-05-05,Roupa Intíma,Marca B,4,45
+287,288,2023-06-02,Camiseta,Marca C,2,55
+288,289,2023-08-21,Calça,Marca A,1,80
+289,290,2023-05-21,Camiseta,Marca A,3,75
+290,291,2023-06-25,Calça,Marca A,6,90
+291,292,2023-09-12,Calça,Marca B,2,120
+292,293,2023-01-12,Calça,Marca B,3,120
+293,294,2023-01-25,Camiseta,Marca A,1,65
+294,295,2023-09-29,Tênis,Marca A,1,150
+295,296,2023-03-01,Roupa Intíma,Marca A,2,30
+296,297,2023-10-16,Camiseta,Marca B,3,105
+297,298,2023-01-15,Calça,Marca A,5,95
+298,299,2023-06-07,Camiseta,Marca B,4,95
+299,300,2023-11-27,Tênis,Marca B,1,170
+300,301,2023-12-19,Camiseta,Marca B,2,80
+301,302,2023-01-21,Calça,Marca A,1,85
+302,303,2023-10-21,Camiseta,Marca B,7,85
+303,304,2023-03-04,Calça,Marca A,8,80
+304,305,2023-05-07,Calça,Marca A,3,105
+305,306,2023-01-24,Camiseta,Marca A,3,75
+306,307,2023-09-25,Calça,Marca B,3,135
+307,308,2023-09-06,Calça,Marca C,3,90
+308,309,2023-06-28,Tênis,Marca B,2,175
+309,310,2023-12-25,Camiseta,Marca A,3,90
+310,311,2023-11-25,Meia,Marca B,4,55
+311,312,2023-09-21,Tênis,Marca A,2,180
+312,313,2023-03-14,Camiseta,Marca A,2,50
+313,314,2023-03-15,Roupa Intíma,Marca A,8,30
+314,315,2023-04-01,Camiseta,Marca A,2,65
+315,316,2023-09-27,Camiseta,Marca C,1,55
+316,317,2023-08-06,Calça,Marca A,3,90
+317,318,2023-02-03,Calça,Marca B,2,120
+318,319,2023-06-15,Camiseta,Marca B,1,85
+319,320,2023-07-05,Camiseta,Marca B,2,80
+320,321,2023-02-27,Calça,Marca B,3,120
+321,322,2023-09-23,Tênis,Marca A,1,180
+322,323,2023-12-12,Calça,Marca C,1,90
+323,324,2023-09-21,Camiseta,Marca A,1,60
+324,325,2023-03-20,Roupa Intíma,Marca B,2,65
+325,326,2023-12-03,Calça,Marca A,3,90
+326,327,2023-07-09,Calça,Marca A,8,110
+327,328,2023-09-02,Camiseta,Marca A,3,65
+328,329,2023-03-24,Roupa Intíma,Marca A,7,25
+329,330,2023-12-12,Camiseta,Marca B,2,70
+330,331,2023-07-21,Calça,Marca C,1,75
+331,332,2023-01-17,Camiseta,Marca B,2,80
+332,333,2023-01-29,Roupa Intíma,Marca A,3,35
+333,334,2023-12-19,Calça,Marca C,2,75
+334,335,2023-03-13,Tênis,Marca A,1,155
+335,336,2023-05-19,Tênis,Marca B,3,190
+336,337,2023-04-05,Calça,Marca B,2,125
+337,338,2023-07-07,Camiseta,Marca A,8,65
+338,339,2023-11-13,Camiseta,Marca A,2,60
+339,340,2023-04-28,Camiseta,Marca A,1,60
+340,341,2023-08-26,Camiseta,Marca A,2,75
+341,342,2023-03-02,Calça,Marca A,4,95
+342,343,2023-05-17,Camiseta,Marca A,2,50
+343,344,2023-01-22,Tênis,Marca A,2,175
+344,345,2023-01-31,Roupa Intíma,Marca A,2,55
+345,346,2023-06-26,Calça,Marca A,1,80
+346,347,2023-03-15,Camiseta,Marca A,6,65
+347,348,2023-11-06,Meia,Marca A,2,35
+348,349,2023-07-09,Camiseta,Marca A,2,70
+349,350,2023-12-14,Roupa Intíma,Marca A,2,35
+350,351,2023-01-30,Calça,Marca A,3,95
+351,352,2023-09-23,Camiseta,Marca B,5,100
+352,353,2023-11-17,Camiseta,Marca A,3,65
+353,354,2023-04-17,Camiseta,Marca A,1,65
+354,355,2023-11-04,Tênis,Marca A,2,
+355,356,2023-08-30,Meia,Marca A,2,30
+356,357,2023-01-01,Calça,Marca C,3,85
+357,358,2023-01-29,Calça,Marca A,4,100
+358,359,2023-10-27,Calça,Marca A,1,100
+359,360,2023-11-26,Camiseta,Marca B,1,85
+360,361,2023-05-10,Tênis,Marca B,2,190
+361,362,2023-10-21,Calça,Marca A,6,95
+362,363,2023-03-06,Tênis,Marca A,2,170
+363,364,2023-01-30,Tênis,Marca A,1,170
+364,365,2023-01-06,Camiseta,Marca A,6,55
+365,366,2023-04-10,Camiseta,Marca B,1,80
+366,367,2023-02-23,Camiseta,Marca A,3,55
+367,368,2023-01-13,Calça,Marca B,1,120
+368,369,2023-12-18,Calça,Marca B,1,115
+369,370,2023-12-26,Calça,Marca C,1,95
+370,371,2023-06-05,Tênis,Marca B,4,180
+371,372,2023-01-07,Camiseta,Marca A,2,60
+372,373,2023-08-17,Calça,Marca A,2,90
+373,374,2023-02-05,Calça,Marca A,3,80
+374,375,2023-12-12,Calça,Marca A,3,90
+375,376,2023-05-25,Calça,Marca A,2,95
+376,377,2023-11-28,Roupa Intíma,Marca A,4,30
+377,378,2023-02-06,Camiseta,Marca B,2,105
+378,379,2023-07-01,Tênis,Marca B,7,180
+379,380,2023-04-20,Roupa Intíma,Marca A,3,35
+380,381,2023-11-07,Roupa Intíma,Marca A,2,30
+381,382,2023-01-05,Camiseta,Marca B,4,95
+382,383,2023-09-04,Camiseta,Marca A,3,75
+383,384,2023-12-24,Tênis,Marca B,1,185
+384,385,2023-01-04,Roupa Intíma,Marca A,4,35
+385,386,2023-02-22,Camiseta,Marca C,1,55
+386,387,2023-06-14,Calça,Marca A,3,85
+387,388,2023-01-06,Camiseta,Marca B,3,95
+388,389,2023-10-09,Calça,Marca A,2,90
+389,390,2023-07-08,Tênis,Marca B,4,185
+390,391,2023-04-18,Tênis,Marca A,3,175
+391,392,2023-06-25,Tênis,Marca A,3,180
+392,393,2023-08-08,Tênis,Marca A,7,150
+393,394,2023-07-01,Camiseta,Marca A,6,60
+394,395,2023-02-16,Calça,Marca B,1,95
+395,396,2023-12-02,Calça,Marca B,1,115
+396,397,2023-07-08,Camiseta,Marca A,4,70
+397,398,2023-02-27,Tênis,Marca A,2,160
+398,399,2023-02-18,Roupa Intíma,Marca B,2,60
+399,400,2023-12-09,Camiseta,Marca B,3,95
+400,401,2023-07-04,Calça,Marca A,3,100
+401,402,2023-06-08,Calça,Marca A,2,75
+402,403,2023-03-09,Tênis,Marca A,4,160
+403,404,2023-04-04,Calça,Marca A,4,100
+404,405,2023-09-08,Calça,Marca A,6,85
+405,406,2023-12-22,Tênis,Marca A,1,170
+406,407,2023-09-03,Camiseta,Marca B,3,90
+407,408,2023-06-10,Calça,Marca B,4,115
+408,409,2023-01-13,Camiseta,Marca B,4,75
+409,410,2023-10-20,Camiseta,Marca A,1,60
+410,411,2023-04-16,Camiseta,Marca A,1,60
+411,412,2023-07-30,Camiseta,Marca B,4,85
+412,413,2023-05-11,Camiseta,Marca B,4,100
+413,414,2023-06-16,Roupa Intíma,Marca B,1,50
+414,415,2023-08-18,Calça,Marca A,1,95
+415,416,2023-09-25,Roupa Intíma,Marca C,2,25
+416,417,2023-03-03,Tênis,Marca B,1,190
+417,418,2023-10-04,Calça,Marca A,1,100
+418,419,2023-09-02,Calça,Marca A,2,85
+419,420,2023-08-27,Calça,Marca B,3,105
+420,421,2023-08-18,Camiseta,Marca B,6,75
+421,422,2023-11-26,Camiseta,Marca A,4,50
+422,423,2023-09-23,Camiseta,Marca A,1,60
+423,424,2023-04-16,Camiseta,Marca A,8,60
+424,425,2023-07-07,Tênis,Marca B,3,185
+425,426,2023-01-05,Camiseta,Marca A,4,55
+426,427,2023-05-11,Camiseta,Marca A,3,75
+427,428,2023-07-14,Tênis,Marca A,4,160
+428,429,2023-10-09,Calça,Marca A,1,105
+429,430,2023-05-14,Tênis,Marca A,1,165
+430,431,2023-11-04,Calça,Marca A,1,100
+431,432,2023-08-11,Camiseta,Marca A,3,75
+432,433,2023-09-09,Camiseta,Marca C,1,45
+433,434,2023-05-12,Calça,Marca A,1,85
+434,435,2023-09-06,Calça,Marca A,3,105
+435,436,2023-02-18,Calça,Marca A,2,105
+436,437,2023-02-27,Roupa Intíma,Marca C,1,20
+437,438,2023-02-23,Camiseta,Marca B,1,85
+438,439,2023-10-30,Calça,Marca B,4,120
+439,440,2023-06-22,Camiseta,Marca B,2,100
+440,441,2023-04-24,Roupa Intíma,Marca A,2,30
+441,442,2023-11-24,Meia,Marca A,2,60
+442,443,2023-12-15,Calça,Marca C,1,80
+443,444,2023-06-06,Calça,Marca C,3,100
+444,445,2023-01-27,Camiseta,Marca B,1,85
+445,446,2023-10-09,Camiseta,Marca B,2,85
+446,447,2023-10-15,Calça,Marca C,2,95
+447,448,2023-07-09,Meia,Marca A,5,40
+448,449,2023-03-27,Calça,Marca B,4,125
+449,450,2023-12-08,Camiseta,Marca A,5,65
+450,451,2023-06-14,Tênis,Marca A,4,165
+451,452,2023-03-20,Camiseta,Marca B,1,65
+452,453,2023-03-19,Calça,Marca A,4,90
+453,454,2023-01-24,Camiseta,Marca A,,55
+454,455,2023-02-28,Calça,Marca A,4,100
+455,456,2023-07-12,Calça,Marca A,1,90
+456,457,2023-01-24,Calça,Marca A,3,100
+457,458,2023-04-07,Meia,Marca A,2,35
+458,459,2023-12-05,Camiseta,Marca A,2,55
+459,460,2023-02-19,Meia,Marca B,4,60
+460,461,2023-06-04,Calça,Marca A,1,85
+461,462,2023-11-30,Camiseta,Marca A,1,70
+462,463,2023-04-18,Meia,Marca B,4,55
+463,464,2023-02-28,Meia,Marca A,1,30
+464,465,2023-09-10,Camiseta,Marca A,3,65
+465,466,2023-05-08,Calça,Marca A,2,85
+466,467,2023-08-14,Calça,Marca A,3,105
+467,468,2023-05-05,Calça,Marca A,2,115
+468,469,2023-12-13,Camiseta,Marca A,2,60
+469,470,2023-05-23,Calça,Marca A,2,80
+470,471,2023-02-15,Camiseta,Marca A,2,60
+471,472,2023-04-20,Camiseta,Marca A,6,65
+472,473,2023-07-31,Calça,Marca A,3,90
+473,474,2023-04-15,Calça,Marca A,2,80
+474,475,2023-08-30,Camiseta,Marca B,1,85
+475,476,2023-10-30,Calça,Marca B,3,105
+476,477,2023-09-23,Calça,Marca B,2,95
+477,478,2023-04-03,Roupa Intíma,Marca A,3,25
+478,479,2023-03-13,Roupa Intíma,Marca A,2,45
+479,480,2023-12-08,Tênis,Marca A,1,165
+480,481,2023-06-08,Camiseta,Marca B,1,80
+481,482,2023-07-18,Calça,Marca A,2,90
+482,483,2023-07-12,Camiseta,Marca A,7,50
+483,484,2023-07-24,Camiseta,Marca A,2,75
+484,485,2023-02-22,Calça,Marca A,2,100
+485,486,2023-09-21,Roupa Intíma,Marca C,2,20
+486,487,2023-11-28,Roupa Intíma,Marca A,2,35
+487,488,2023-05-08,Camiseta,Marca B,2,95
+488,489,2023-03-25,Roupa Intíma,Marca B,2,65
+489,490,2023-08-10,Camiseta,Marca A,2,75
+490,491,2023-03-17,Camiseta,Marca B,1,80
+491,492,2023-08-27,Tênis,Marca C,3,165
+492,493,2023-01-10,Calça,Marca C,2,95
+493,494,2023-05-12,Camiseta,Marca A,3,65
+494,495,2023-02-25,Camiseta,Marca A,1,60
+495,496,2023-12-19,Calça,Marca A,1,80
+496,497,2023-01-31,Calça,Marca A,2,90
+497,498,2023-07-17,Camiseta,Marca B,2,75
+498,499,2023-12-13,Calça,Marca C,2,90
+499,500,2023-04-07,Tênis,Marca A,1,150
